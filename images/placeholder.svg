@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e3ddd1" />
+  <path d="M0 0 L800 600 M800 0 L0 600" stroke="#cfc5b3" stroke-width="1" />
+  <text
+    x="400"
+    y="310"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="22"
+    letter-spacing="2"
+    fill="#7a6d56"
+  >IMAGE COMING SOON</text>
+</svg>
